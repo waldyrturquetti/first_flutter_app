@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           foregroundColor: Colors.black,
         ),
       ),
-      home: RandomWords(),
+      home: const RandomWords(),
     );
   }
 }
